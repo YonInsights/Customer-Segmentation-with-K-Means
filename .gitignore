@@ -1,0 +1,33 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Python Specific
+*.pyc
+*.pyo
+__pycache__/
+venv/
+env/
+
+# IDE and Editor Files
+.vscode/
+.idea/
+
+# Build and Dependency Files
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Log Files
+*.log
+
+# Environment Files
+.env
+
+# Data Files
+*.csv
+*.json
+
+# Configuration Files
+config.yaml
